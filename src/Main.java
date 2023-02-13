@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-	double valueA = 0;
-	double valueB = 0;
+	double valueA = 13;
+	double valueB = 18;
 
 	if (valueA > valueB) // if value A is greater than value B then the output below will display
     {
